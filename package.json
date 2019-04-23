@@ -1,5 +1,5 @@
 {
-  "name": "redux-thunk",
+  "name": "@taxify/redux-thunk",
   "version": "2.3.0",
   "license": "MIT",
   "description": "Thunk middleware for Redux.",
