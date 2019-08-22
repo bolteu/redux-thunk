@@ -1,11 +1,11 @@
 {
-  "name": "@bolt/redux-thunk",
+  "name": "@bolteu/redux-thunk",
   "version": "2.4.0",
   "license": "MIT",
   "description": "Thunk middleware for Redux.",
-  "repository": "github:reduxjs/redux-thunk",
-  "bugs": "https://github.com/reduxjs/redux-thunk/issues",
-  "homepage": "https://github.com/reduxjs/redux-thunk",
+  "repository": "github:bolteu/redux-thunk",
+  "bugs": "https://github.com/bolteu/redux-thunk/issues",
+  "homepage": "https://github.com/bolteu/redux-thunk",
   "keywords": [
     "redux",
     "thunk",
