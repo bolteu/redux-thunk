@@ -1,9 +1,12 @@
 {
   "name": "@bolteu/redux-thunk",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "license": "MIT",
   "description": "Thunk middleware for Redux.",
-  "repository": "github:bolteu/redux-thunk",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/bolteu/redux-thunk.git"
+  },
   "bugs": "https://github.com/bolteu/redux-thunk/issues",
   "homepage": "https://github.com/bolteu/redux-thunk",
   "keywords": [
@@ -71,8 +74,5 @@
     "typescript": "^3.1.6",
     "typings-tester": "^0.3.1",
     "webpack": "^1.12.14"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
